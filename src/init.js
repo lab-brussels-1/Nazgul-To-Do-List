@@ -2,7 +2,7 @@ const todos = async() =>
 {
    try
    {
-        const res = await  fetch("https://my-json-server.typicode.com/samirm00/todolist/db");
+        const res = await  fetch("https://my-json-server.typicode.com/samirm00/todolist/todos");
         
         if (res.status === 200)
         {
