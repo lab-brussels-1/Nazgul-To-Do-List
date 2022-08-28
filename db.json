@@ -2,13 +2,13 @@
   "todos": [
     {
       "id" : 1,
-      "text" : "learn react",
+      "title" : "learn react",
       "completed" :  false
 
     },
     {
       "id" : 2,
-      "text" : "go to doctor",
+      "title" : "go to doctor",
       "completed" :  false
 
     }
