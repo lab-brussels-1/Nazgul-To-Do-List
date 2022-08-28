@@ -10,3 +10,7 @@
 - `gitHub` : `https://my-json-server.typicode.com/userName/repoName/todos`
 
 
+- More info about json-server
+[json-server](https://www.npmjs.com/package/json-server)
+
+
